@@ -1,0 +1,15 @@
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\bin\Debug\netstandard2.0\todolistAPP.deps.json
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\bin\Debug\netstandard2.0\todolistAPP.dll
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\bin\Debug\netstandard2.0\ref\todolistAPP.dll
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\bin\Debug\netstandard2.0\todolistAPP.pdb
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\obj\Debug\netstandard2.0\todolistAPP.csproj.AssemblyReference.cache
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\obj\Debug\netstandard2.0\todolistAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\obj\Debug\netstandard2.0\todolistAPP.AssemblyInfoInputs.cache
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\obj\Debug\netstandard2.0\todolistAPP.AssemblyInfo.cs
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\obj\Debug\netstandard2.0\todolistAPP.csproj.CoreCompileInputs.cache
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\obj\Debug\netstandard2.0\todolistAPP.dll
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\obj\Debug\netstandard2.0\ref\todolistAPP.dll
+C:\Users\Infinitaz\source\repos\todolistAPP\todolistAPP\obj\Debug\netstandard2.0\todolistAPP.pdb
